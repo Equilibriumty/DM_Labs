@@ -6,7 +6,7 @@ import numpy as np
 
 # GLOBAL VARIABLES
 NZK = 9313
-my_variant = str((NZK % 6) + 1)
+my_variant = str((NZK % 6) + 1) # = 2
 
 
 # MAIN CLASS
